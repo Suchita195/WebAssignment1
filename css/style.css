@@ -195,4 +195,8 @@ h2 {
     margin-top: 10px;
 
 }
+ #image1, #image2{
+ height: 200px;
+ width: 200px;
+}
 
